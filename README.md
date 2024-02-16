@@ -1,7 +1,5 @@
 # Lead-Scoring-Case-Study
 
-# Lead-Scoring-Case-Study
-
 ![image](https://user-images.githubusercontent.com/124515595/235360693-0d24bbe5-fe69-42f2-a3fd-edd6fead4b75.png)
 
 
